@@ -1,0 +1,20 @@
+CSC 4631 – Lab 2 Explanation
+Developer: Gorette Mulundano(Developer A)
+
+1. branch.png
+   Shows creation of the feature-A branch and commits made.
+
+2. conflict.png
+   Shows the merge conflict caused by editing the same line in team.md.
+
+3. resolve.png
+   Shows how the merge conflict was resolved and committed.
+
+4. revert.png
+   Demonstrates use of git revert to safely undo a commit.
+
+5. reset.png
+   Demonstrates use of git reset --hard to remove a commit.
+
+6. tag.png
+   Shows the Git tag v1.0 and the release on GitHub.
